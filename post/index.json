@@ -1,0 +1,12 @@
+{
+    "site_name": "平凡之路",
+    "copyright": "SYSCDE",
+    "cates": [
+        {"name": "tech", "text":"工作"},
+        {"name": "life", "text":"生活"},
+        {"name": "other", "text":"其它"}
+    ],
+    "articles":[
+	{"title": "JSBlog博客程序", "file": "2013-10-19-jsblog", "cate":"tech"}    
+    ]
+}
