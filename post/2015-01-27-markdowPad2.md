@@ -2,8 +2,9 @@
 
 以下内容摘自[[http://www.xp85.com/html/MarkdownPad2.html](http://www.xp85.com/html/MarkdownPad2.html "http://www.xp85.com/html/MarkdownPad2.html")]:
 
->MarkdownPad 2是一款不错的Markdown编辑器，具备所有Markdown的基本语法外支持一些特别的扩展，比如表格等。可以帮助你快速的将文本转换为美观的HTML/XHTML的网页格式代码！软件操作简单容易，上手很快。可让你可以即时预览转换后的样式的同时，又不会加入Office特有的编版码，有需要朋友可以进行尝试。            
->###MarkdownPad 2软件功能特点：
+>MarkdownPad 2是一款不错的Markdown编辑器，具备所有Markdown的基本语法外支持一些特别的扩展，比如表格等。可以帮助你快速的将文本转换为美观的HTML/XHTML的网页格式代码！软件操作简单容易，上手很快。可让你可以即时预览转换后的样式的同时，又不会加入Office特有的编版码，有需要朋友可以进行尝试。
+            
+>####MarkdownPad 2软件功能特点：
 * 为你提供了语法高亮和方便的快捷键功能，给您最好的Markdown编写体验。
 * 无需猜测您的 语法 是否正确；每当您敲击键盘，实时预览功能都会立刻准确呈现出文档的显示效果。
 * 100%可自定义的字体、配色、布局和样式，让您可以将MarkdownPad配置的得心应手。
