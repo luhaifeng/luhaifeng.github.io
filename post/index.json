@@ -2,6 +2,7 @@
     "site_name": "平凡之路",
     "copyright": "SYSCDE",
     "cates": [
+        {"name": "tech", "text":"NodeJS"},
         {"name": "tech", "text":"工作"},
         {"name": "life", "text":"生活"},
         {"name": "other", "text":"其它"}
